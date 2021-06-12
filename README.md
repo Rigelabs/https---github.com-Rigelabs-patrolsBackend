@@ -8,7 +8,7 @@ The App is designed to facilitate a field teams resolving faults to create and u
 
 ## How to get started.
 1. clone the repo.
-2.  Run ** npm install   to  install the dependencies
+2.  *Run  npm install   to  install the dependencies
 3.  ** Create an env file at the root of the project
 4.  Add these Variables  ** 1.  MONGO_URI : (the app uses mongodb Atlas, please read about the setup)
                           2. TOKEN_SECRET :(a random string of characters e.g LLH_900!!>$2221_TThffbddd({{}}), dont use this )
